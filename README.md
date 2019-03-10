@@ -18,5 +18,7 @@ Data stored about the parking spots:
 1. Parking Spot Number (S1.../P1.../TW1.../F1...)
 2. Availability (0/1)
 
+**The repository also contains the apk file(app-debug.apk) for the application for testing purposes.
+
 Future Scope:
 1. Adding latitude and longitude of each parking spot and calculating the distance between the user and the nearest parking spot.
