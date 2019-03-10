@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "81247662796",
+    "firebase_url": "https://spark-fe1a6.firebaseio.com",
+    "project_id": "spark-fe1a6",
+    "storage_bucket": "spark-fe1a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81247662796:android:84dc38f870e32d63",
+        "android_client_info": {
+          "package_name": "com.parking.amisha.spotparkspark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81247662796-62a9rrvnnsuep5jrjaefa2lutd38a7g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parking.amisha.spotparkspark",
+            "certificate_hash": "6e76c6372382995b3b411ba98c832000f29f3dba"
+          }
+        },
+        {
+          "client_id": "81247662796-1a2ubev1a43q0b0kn4tk3iaa4kha42aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTor58o_6NlnAi-RxltigDk7A-lqrwQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81247662796-1a2ubev1a43q0b0kn4tk3iaa4kha42aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
