@@ -20,5 +20,7 @@ Data stored about the parking spots:
 
 **The repository also contains the apk file(app-debug.apk) for the application for testing purposes.
 
+**The repository also contains a png image(parking_layout.png) of the parking layout.
+
 Future Scope:
 1. Adding latitude and longitude of each parking spot and calculating the distance between the user and the nearest parking spot.
